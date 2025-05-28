@@ -18,4 +18,3 @@ We generated all 3D assets including fish variants, background assets(rock, cora
 
 ## Representation color extraction from 2D images
 From 2D images of fish variants, to obtain representation color of each images by calculating HSV color 
->>>>>>> 99f36a25cb3fcb26f54483b202d47221ce6f199b
